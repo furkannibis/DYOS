@@ -12,8 +12,8 @@
 General use: python reds.py -i "target ip, ip block" -p "target port, port range" action
 python reds.py -i 192.168.70.0/24 -p 1-1000 --tcpsyn
 
-PING SC4N
+PING SC4N<br>
 A ping scan can be done with the "--ping" parameter. In this way, you can detect whether the host is active or not.
 
-TCP SC4N
+TCP SC4N<br>
 With the "--tcpsyn" parameter, you can perform operations according to the version information of the applications running on the active ports on the client that you have determined to be active...
