@@ -1,0 +1,7 @@
+ipaddress
+logging
+python-nmap
+exploitdb
+BeautifulSoup4
+requests
+lxml
