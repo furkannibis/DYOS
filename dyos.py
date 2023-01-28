@@ -3,7 +3,6 @@ from datetime import datetime
 import argparse
 import ipaddress
 import sys
-import ping3
 import nmap
 import socket
 import requests
