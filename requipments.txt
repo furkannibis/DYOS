@@ -1,6 +1,5 @@
 ipaddress
 argparse
-ping3
 python-nmap
 requests
 beautifulSoup4
