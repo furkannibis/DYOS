@@ -1,7 +1,7 @@
 ipaddress
-logging
+argparse
+ping3
 python-nmap
-exploitdb
-BeautifulSoup4
 requests
+beautifulSoup4
 lxml
