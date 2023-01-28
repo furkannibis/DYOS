@@ -3,7 +3,7 @@
 ### <b>PROJE AMACI</b> 
 <p>Sistemde çalışan uygulamaların potansiyel güvenlik zafiyetlerini tespit etmek ve kullanıcıya bu zafiyetlerin adlarını ve ilişkili kaynaklardaki daha fazla bilgiye erişebilecekleri linkleri sunmaktır.</p>
 
-### <b>Proje ÖZELLİKLERİ</b>
+### <b>PROJE ÖZELLİKLERİ</b>
 <p>Sistemdeki portları tarama: Proje, belirli bir IP adresinde veya IP aralığında çalışan uygulamaları ve portlarını tarayarak tespit edecektir.</p>
 <p>Uygulama ve zafiyet araştırması: Taranan uygulamalar ile ilgili veritabanındaki ve internet kaynaklarındaki bilgiler kullanılarak, potansiyel güvenlik zafiyetleri tespit edilecektir.</p>
 <p>Kullanıcıya bilgi sunma: Tespit edilen zafiyetlerin adları ve ilişkili kaynaklardaki daha fazla bilgiye erişebilecekleri linkler kullanıcıya sunulacaktır.</p>
@@ -60,5 +60,7 @@
 <br><br>
 ### <b>SONUÇ</b>
 - DYOS (Defend Your Own System) projesi, ilk aşaması tamamlanarak, hedeflenen tüm maddelerin gerçekleştirilmeye uygun hale getirildi. Proje, geliştirilebilirlik açısından sınırsız olarak değerlendirilmektedir ve bu nedenle çalışmaların devam etmesi planlanmaktadır.
+
+![dyos](https://user-images.githubusercontent.com/102908626/215262280-5a64398f-966f-4bf0-89e7-e9be36435f64.gif)
 
 
