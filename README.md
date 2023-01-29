@@ -56,7 +56,7 @@
 - ```python3 dyos.py --ip 192.168.72.129 --port 21 --tcpsyn --askdb```
 - ![image](https://user-images.githubusercontent.com/102908626/215261323-138e399c-3ef7-4bd3-a37c-03e2097d2631.png)
 <br><br>
-- <p><b>Önemli not: Yukarıda yer alan tüm görseller, Metasploit Table 2'ye gönderilen ilgili sorguların sonuçlarıdır.</b></p>
+- <p><b>Önemli not: Yukarıda yer alan tüm görseller, Metasploitable 2'ye gönderilen ilgili sorguların sonuçlarıdır.</b></p>
 <br><br>
 ### <b>SONUÇ</b>
 - DYOS (Defend Your Own System) projesi, ilk aşaması tamamlanarak, hedeflenen tüm maddelerin gerçekleştirilmeye uygun hale getirildi. Proje, geliştirilebilirlik açısından sınırsız olarak değerlendirilmektedir ve bu nedenle çalışmaların devam etmesi planlanmaktadır.
