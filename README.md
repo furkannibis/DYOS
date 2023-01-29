@@ -5,7 +5,7 @@
 
 ### <b>PROJE ÖZELLİKLERİ</b>
 <p>Sistemdeki portları tarama: Proje, belirli bir IP adresinde veya IP aralığında çalışan uygulamaları ve portlarını tarayarak tespit edecektir.</p>
-<p>Uygulama ve zafiyet araştırması: Taranan uygulamalar ile ilgili veritabanındaki ve internet kaynaklarındaki bilgiler kullanılarak, potansiyel güvenlik zafiyetleri tespit edilecektir.</p>
+<p>Uygulama ve zafiyet araştırması: Taranan uygulamalar ile ilgili veritabanındaki ve internet kaynaklarındaki bilgiler kullanılarak potansiyel güvenlik zafiyetleri tespit edilecektir.</p>
 <p>Kullanıcıya bilgi sunma: Tespit edilen zafiyetlerin adları ve ilişkili kaynaklardaki daha fazla bilgiye erişebilecekleri linkler kullanıcıya sunulacaktır.</p>
 <p></p>
 
