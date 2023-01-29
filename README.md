@@ -12,7 +12,7 @@
 ### <b>PROJENİN KULLANIMI</b>
 * "--ip" argümanı: Tarama yapmak istediğiniz hedefin IP bilgisini girin.
 * "--port" argümanı: Tarama yapmak istediğiniz hedefin port bilgisini girin.
-* "--file" argümanı: Hedef veya hedeflerle ilgili IP ve port bilgilerini içeren bir txt dosyası vermenizi sağlar. Bu argümanı kullandığınızda "--ip" ve "--port" argümanlarını kullanmanıza gerek yok.
+* "--file" argümanı: Hedef veya hedeflerle ilgili IP ve port bilgilerini içeren bir txt dosyası vermenizi sağlar. Bu argümanı kullandığınızda "--ip" ve "--port" argümanlarını kullanmanıza gerek kalmaz.
 * "--ping" argümanı: Ping taraması, hedefinizin aktif durumda olup olmadığını tespit eder ve size sunar.
 * "--tcpsyn" argümanı: TCP SYN taraması, ağda mevcut olan açık TCP portlarını taramak için kullanılan bir tarama türüdür.
 * "--os" argümanı: Hedef sistemin işletim sistemini tespit etmek için kullanılır.
